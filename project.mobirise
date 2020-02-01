@@ -13,15 +13,15 @@
         "warningColor": "#C1C1C1",
         "dangerColor": "#444444",
         "mainFont": "Josefin Sans",
-        "display1Font": "Josefin Sans",
+        "display1Font": "Varela Round",
         "display1Size": 3,
-        "display2Font": "Josefin Sans",
+        "display2Font": "Varela Round",
         "display2Size": 2.25,
-        "display5Font": "Cormorant Upright",
+        "display5Font": "Varela Round",
         "display5Size": 1.8,
-        "display7Font": "Cormorant Upright",
+        "display7Font": "Varela Round",
         "display7Size": 1.3,
-        "display4Font": "Cormorant Upright",
+        "display4Font": "Varela Round",
         "display4Size": 1.2,
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
@@ -31,7 +31,13 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Varela Round', sans-serif",
+        "name": "Varela Round",
+        "url": "https://fonts.googleapis.com/css?family=Varela+Round:400"
+      }
+    ],
     "PWA": {
       "enabled": true
     },
@@ -39,7 +45,8 @@
     "noImageResize": "",
     "pwa-switcher": "on",
     "uniqCompNum": 6,
-    "versionPublish": "4.10.7"
+    "versionPublish": "4.10.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "home.html": {

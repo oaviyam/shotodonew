@@ -1,5 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,300i,400,400i,600,600i,700,700i);
-@import url(https://fonts.googleapis.com/css?family=Cormorant+Upright:300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Varela+Round:400);
 
 
 
@@ -9,35 +8,35 @@ body {
   font-family: Josefin Sans;
 }
 .display-1 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-size: 3rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-2 {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   font-size: 2.25rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 3.6rem;
 }
 .display-4 {
-  font-family: 'Cormorant Upright', serif;
+  font-family: 'Varela Round', sans-serif;
   font-size: 1.2rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.92rem;
 }
 .display-5 {
-  font-family: 'Cormorant Upright', serif;
+  font-family: 'Varela Round', sans-serif;
   font-size: 1.8rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.88rem;
 }
 .display-7 {
-  font-family: 'Cormorant Upright', serif;
+  font-family: 'Varela Round', sans-serif;
   font-size: 1.3rem;
 }
 .display-7 > .mbr-iconfont {
@@ -541,7 +540,7 @@ a:hover {
   color: #ffbc00;
 }
 .form-control {
-  font-family: 'Cormorant Upright', serif;
+  font-family: 'Varela Round', sans-serif;
   font-size: 1.3rem;
 }
 .form-control > .mbr-iconfont {
